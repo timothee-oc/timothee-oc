@@ -50,7 +50,7 @@ Hi there 👋, my name is Timothée.
 Most of my public repositories are recent projects related to my Python Developer certification. 
 Here some keyword I used in tag: `cli`, `type-hinting`, `pytest`, `mvc-architecture`, `algorithm`, `api-rest`, `documentation`.
 
-#### Experience 👩🏼‍💻🏢
+#### Experience 👩🏼‍💻
 -> 2023/2025 - Working as an apprentice for WPO, company in assets management for renewable energies (wind, solar, etc...).
 
 #### Education 📜
