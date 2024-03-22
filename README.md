@@ -23,6 +23,7 @@ Hi there 👋, my name is Timothée.
 #### I am familiar with
 <details>
 <summary>Technologies 🧰 (click to open)</summary>
+
 - style: `flake8`,`black`,`isort`
 - testing: `pytest`, `tox`, `coverage`
 - packaging and dependency: `poetry`
@@ -33,8 +34,10 @@ Hi there 👋, my name is Timothée.
 - frontend: `html`, `css`, `javascript`
 - other: `pygame`
 </details>
+
 <details>
 <summary>Concepts and guidelines 📖 (click to open)</summary>
+
 - TDD
 - DDD
 - Clean Code: KISS, DRY, etc.
