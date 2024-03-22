@@ -1,7 +1,9 @@
 ### About
 Hi there 👋, my name is Timothée.
 
-I'm a Python Software Engineer
+<img src="https://github.com/nanakin/nanakin/assets/14202917/a70cc56b-3246-4e3f-99fb-58b4874d7fc0"> I'm a Python Software Engineer based in France.
+
+
 
 <!--
 **timothee-oc/timothee-oc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
