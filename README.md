@@ -1,5 +1,7 @@
-# About
-### Hi there 👋
+### About
+Hi there 👋, my name is Timothée.
+
+I'm a Python Software Engineer
 
 <!--
 **timothee-oc/timothee-oc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
