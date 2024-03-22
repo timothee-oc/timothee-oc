@@ -3,6 +3,8 @@ Hi there 👋, my name is Timothée.
 
 <img src="https://github.com/nanakin/nanakin/assets/14202917/a70cc56b-3246-4e3f-99fb-58b4874d7fc0"> I'm a Python Software Engineer based in France.
 
+### How to reach me
+[<img alt=gmail src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge">](mailto:tmth.oc@gmail.com)
 
 
 <!--
