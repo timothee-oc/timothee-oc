@@ -29,7 +29,7 @@ Hi there 👋, my name is Timothée.
 - packaging and dependency: `poetry`
 - database: `mysql`
 - API: `rest`
-- object relational mapping: `sqlalchemy`,
+- object relational mapping: `sqlalchemy`
 - command line: `click`
 - frontend: `html`, `css`, `javascript`
 - other: `pygame`
