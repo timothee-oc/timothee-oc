@@ -4,6 +4,7 @@ I'm a Python Software Engineer based in France.
 
 # How to reach me
 [My professional email](mailto:tmth.oc@gmail.com)
+
 [My LinkedIn account](https://www.linkedin.com/in/timoth%C3%A9e-b-411927254/)
 
 # Languages, Concepts and Tools I'm familiar with
