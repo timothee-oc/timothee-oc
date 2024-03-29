@@ -16,17 +16,14 @@ I'm a Python Software Engineer based in France.
 - SQL, SQLAlchemy, SQLModel, Alembic
 - HTML/CSS/Javascript
 - FastAPI
-- Flake8
+- PEP8, Flake8
 - RESTful APIs
-- Pygame
-- DDD
 - SOLID, KISS, DRY
-- Agile
-- PEP 8
 - Documentation
 - POO, MVC architecture
 - Web scraping, BeautifulSoup
 - Big O, Dynamic programming
+- Pygame
 
 # Projects
 Most of my public repositories are recent projects related to my Python Developer certification. 
